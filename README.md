@@ -22,6 +22,8 @@ This module is for TypeScript. Add the following to the `tsconfig.json`:
 }
 ```
 
+> ___If you are using VSCode, restart the application.___
+
 ---
 
 #### `types-phaser` &Star; &copy; 2017 develephant &Star; MIT license
