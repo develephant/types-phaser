@@ -1,0 +1,26 @@
+{
+  "name": "@develephant/types-phaser",
+  "version": "1.0.0",
+  "description": "A phaser.js shim for VSCode types",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develephant/types-phaser.git"
+  },
+  "keywords": [
+    "typings",
+    "types",
+    "phaser",
+    "phaser.js"
+  ],
+  "author": "develephant <code@develephant.com> (http://www.develephant.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/develephant/types-phaser/issues"
+  },
+  "homepage": "https://github.com/develephant/types-phaser#readme",
+  "files": [ 
+    "index.d.ts"
+  ]
+}
