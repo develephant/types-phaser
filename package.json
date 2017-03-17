@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/develephant/types-phaser/issues"
   },
-  "homepage": "https://github.com/develephant/types-phaser#readme",
-  "files": [ 
-    "index.d.ts"
-  ]
+  "homepage": "https://github.com/develephant/types-phaser#readme"
 }
