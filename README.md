@@ -16,13 +16,9 @@ This module is for TypeScript. Add the following to the `tsconfig.json`:
 
 ```json
 {
-  ...
-  
   "typeRoots": [
     "node_modules/@develephant/types-phaser"
   ] 
-
-  ...
 }
 ```
 
