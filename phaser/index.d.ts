@@ -5512,7 +5512,7 @@ declare module Phaser {
         seed?: string;
         state?: Phaser.State;
         forceSetTimeOut?: boolean;
-        multiTextue?: boolean;
+        multiTexture?: boolean;
 
     }
 
